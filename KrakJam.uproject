@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9C30FB86-4D31-D0DD-58E5-53A3595701BA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "KrakJam",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
